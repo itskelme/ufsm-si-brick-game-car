@@ -15,3 +15,7 @@ Jogo de corrida no estilo dos minigames Brick Game, no terminal, em C. Roda no W
 gcc -Wall -std=c99 -o brickgamecar brickgamecar_v2.c
 ./brickgamecar
 ```
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
