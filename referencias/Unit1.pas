@@ -234,7 +234,7 @@ begin
 end;
 
 { ---------------------------------------------------------------
-  FormCreate — configura componentes e inicia o jogo
+  FormCreate - configura componentes e inicia o jogo
 --------------------------------------------------------------- }
 procedure TForm1.FormCreate(Sender: TObject);
 begin

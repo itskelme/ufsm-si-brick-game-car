@@ -19,7 +19,7 @@
 #endif
 
 /* ------------------------------------------------------------------
- * Variaveis globais — espelho direto do enunciado
+ * Variaveis globais - espelho direto do enunciado
  * ------------------------------------------------------------------ */
 char mat[30][60];
 

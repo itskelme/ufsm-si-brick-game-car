@@ -19,7 +19,7 @@
 #endif
 
 /* ------------------------------------------------------------------
- * Variaveis globais � espelho direto do enunciado
+ * Variaveis globais - espelho direto do enunciado
  * mat[lin][col] em C == mat.Cells[col, lin] em Delphi (row-major)
  * ------------------------------------------------------------------ */
 char mat[30][60];
@@ -85,7 +85,7 @@ void timer(void) {
     int i, j, count;
     count = 0;
 
-    /* 1) Varre de baixo para cima � [0,0] no canto superior esquerdo */
+    /* 1) Varre de baixo para cima - [0,0] no canto superior esquerdo */
     for (i = tamY - 2; i >= 1; i--) {
         for (j = 1; j < tamX - 1; j++) {
             if (mat[i][j] == 'X') {
